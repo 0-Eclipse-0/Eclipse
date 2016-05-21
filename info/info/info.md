@@ -1,0 +1,12 @@
+# Info
+
+| Title:      | Description                                                |
+|-------------------|------------------------------------------------------------|
+| Name:             | Eclipse                                                    |
+| Version:          | v1.0.2                                                     |
+| Date of Creation: | 5/8/16                                                     |
+| Language:         | Ruby                                                       |
+| File Extension:   | .ec                                                        |
+| Author:           | Matthew Hambrecht (0-Eclipse-0)                            |
+| Website:          | https://github.com/0-Eclipse-0/Eclipse                     |
+| Contributors:     | https://github.com/0-Eclipse-0/Eclipse/graphs/contributors |

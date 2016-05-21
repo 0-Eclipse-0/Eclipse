@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updates>
+  <v1.0.0>
+    <title>Initial Release</title>
+    <dateOfUpdate>5/8/16</dateOfUpdate>
+    <notes>Initial release of project.</notes>
+  </v1.0.0>
+  <v1.0.1>
+    <title>Added Classes</title>
+    <dateOfUpdate>5/15/16</dateOfUpdate>
+    <notes>Ability to set classes of certain tags added.</notes>
+  </v1.0.1>
+</updates>

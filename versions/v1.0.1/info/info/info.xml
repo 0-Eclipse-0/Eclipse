@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<information>
+  <name>Eclipse</name>
+  <version>v1.0.1</version>
+  <dateOfCreation>5/8/16</dateOfCreation>
+  <language>Ruby</language>
+  <fileExtension>.ec</fileExtension>
+  <author>Matthew Hambrecht (0-Eclipse-0)</author>
+  <website>https://github.com/0-Eclipse-0/Eclipse</website>
+  <contributors>https://github.com/0-Eclipse-0/Eclipse/graphs/contributors</contributors>
+</information>

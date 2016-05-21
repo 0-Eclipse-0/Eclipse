@@ -1,0 +1,17 @@
+{"updates":[
+ "v1.0.0":[
+   {"Title:":"Initial Release"},
+   {"Date of Update:":"5/8/16"},
+   {"Notes:":"Initial release of project."}
+ ],
+ "v1.0.1":[
+   {"Title:":"Added Classes"},
+   {"Date of Update:":"5/15/16"},
+   {"Notes:":"Ability to set classes to certain tags added."}
+ ]
+ "v1.0.2":[
+   {"Title:":"Updated Syntax"},
+   {"Date of Update:":"5/22/16"},
+   {"Notes:":"Updated syntax and added universal compiler."}
+ ]
+]}
